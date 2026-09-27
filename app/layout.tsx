@@ -26,6 +26,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="bg-background">
       <head>
+        <meta name="yandex-verification" content="390c5df978dde8ac" />
         <meta charSet="utf-8" />
         <meta name="description" content="Информационный гид по Lucky Bear Casino: официальный сайт, зеркало и советы для ответственной игры онлайн." />
         <meta name="keywords" content="lucky bear casino, luckybear casino, лаки бир казино, официальный сайт, зеркало" />
